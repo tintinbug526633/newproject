@@ -1,2 +1,2 @@
-print("suptin")
+print("tin")
 print("yoyo")
